@@ -1,0 +1,2 @@
+# bayes <train-set-file> <test-set-file> <n|t>
+python ./src/main.py $1 $2 $3
